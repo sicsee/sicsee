@@ -91,7 +91,7 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -99,7 +99,7 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 

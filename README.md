@@ -5,11 +5,11 @@
 Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia e gosto de saber como criam e desenvolvem tudo, o que me fez escolher essa profissão.
 
 <p align="left">
-   <a href="https://www.instagram.com/_nicolasds_/">
+   <a href="https://www.instagram.com/imnicolasds">
     <img 
         alt="Seguidores no Instagram" 
         title="Me siga no Instagram" 
-        src="https://img.shields.io/badge/IG-@_nicolasds_-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"
+        src="https://img.shields.io/badge/IG-@imnicolasds-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"
     />
 </a>
 </p>
@@ -88,3 +88,4 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   />
 
 </p>
+

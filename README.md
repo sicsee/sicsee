@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nicolas Godinho
+#  Nicolas Godinho
 
 **`Desenvolvedor Front-End`**
 
@@ -88,4 +88,5 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   />
 
 </p>
+
 

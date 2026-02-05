@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio e atualmente estou cursando Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia e gosto de saber como criam e desenvolvem tudo, o que me fez escolher essa profissão.
+Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio e me formei em Tecníco em Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia e gosto de saber como criam e desenvolvem tudo, o que me fez escolher essa profissão.
 
 <p align="left">
    <a href="https://www.instagram.com/imnicolasds">
@@ -88,6 +88,7 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   />
 
 </p>
+
 
 
 

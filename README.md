@@ -68,24 +68,24 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Laravel" 
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Vite" 
+    title="Vite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -112,6 +112,7 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   />
 
 </p>
+
 
 
 

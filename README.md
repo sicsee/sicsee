@@ -104,6 +104,8 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
     src="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -112,6 +114,7 @@ Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Ge
   />
 
 </p>
+
 
 
 

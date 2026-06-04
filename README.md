@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Nicolas David Da Silva Godinho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio e me formei em Técnico em Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia e gosto de saber como criam e desenvolvem tudo, o que me fez escolher essa profissão.
+Me chamo Nicolas David Da Silva Godinho, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio e me formei em Técnico em Desenvolvimento de Sistemas na Proz Educação. Sou apaixonado por tecnologia e gosto de saber como criam e desenvolvem tudo, o que me fez escolher essa profissão.
 
 <p align="left">
    <a href="https://www.instagram.com/imnicolasds">

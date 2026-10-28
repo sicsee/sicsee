@@ -32,9 +32,9 @@
 | **C** | 🟡 Iniciante | Ponteiros, structs, alocação dinâmica, recursão — *Neps Academy* |
 | **PHP** | 🟡 Revisando | PDO, MVC artesanal, APIs REST, segurança — *Habit Tracker* |
 | **MySQL** | 🟡 Básico | SELECT/JOIN/índices, prepared statements — *uso no projeto* |
-|| **JavaScript** | 🟡 Revisando | ES6+, async/await, DOM, fetch — *base full-stack, reaprendendo* |
+| **JavaScript** | 🟡 Revisando | ES6+, async/await, DOM, fetch — *base full-stack, reaprendendo* |
 | **React / Next.js** | 🟡 Noção básica | Componentes, hooks, roteamento — *estudando quando preciso* |
-|| **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
+| **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
 
 ---
 
@@ -52,8 +52,8 @@
 | **O que faz** | CRUD de hábitos, streak diário/semanal, dashboard com gráficos, exportação CSV |
 | **Arquitetura** | MVC artesanal (sem framework) — rotas, controllers, models, views separados |
 | **Banco** | MySQL com *prepared statements*, transações, índices otimizados |
-|| **Front** | HTML semântico, CSS Grid/Flex, JS vanilla para interações (sem build step) |
-|| **Repo** | <a href="https://github.com/sicsee/habit-tracker"><code>github.com/sicsee/habit-tracker</code></a> |
+| **Front** | HTML semântico, CSS Grid/Flex, JS vanilla para interações (sem build step) |
+| **Repo** | <a href="https://github.com/sicsee/habit-tracker"><code>github.com/sicsee/habit-tracker</code></a> |
 
 <p align="center">
   <img alt="Habit Tracker Dashboard" src="https://github.com/user-attachments/assets/habit-tracker-dashboard.png" width="70%" />

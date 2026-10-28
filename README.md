@@ -36,6 +36,8 @@
 | **React / Next.js** | 🟡 Noção básica | Componentes, hooks, roteamento — *estudando quando preciso* |
 | **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
 
+> 📚 **Como estudo:** resolvo problemas na **[Neps Academy](https://neps.academy/)** (estruturas de dados, algoritmos, grafos), leio *C Primer Plus* / *Effective C*, e aplico tudo no **Habit Tracker** (meu projeto-base).
+
 ---
 
 ### 🚀 Projeto em destaque
@@ -70,7 +72,7 @@
 
 **🎯 Domino / Uso no dia a dia**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,php,mysql,js,html,css,git" height="44" alt="C, PHP, MySQL, JavaScript, HTML, CSS, Git" />
+  <img src="https://skillicons.dev/icons?i=c,php,mysql,js,html,css,git,tailwind,vite" height="44" alt="C, PHP, MySQL, JavaScript, HTML, CSS, Git, Tailwind, Vite" />
 </p>
 
 **📚 Em estudo / Revisão ativa**
@@ -80,7 +82,7 @@
 
 **🔭 Radar (futuro próximo)**
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,tailwind,vite" height="44" alt="GitHub Actions, Tailwind, Vite" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,docker" height="44" alt="GitHub Actions, AWS, Docker" />
 </p>
 
 ---
@@ -138,8 +140,6 @@
 - 💬 **Aberto a:** mentoria, code review, indicações, bate-papo tech
 
 ---
-
-<p align="center"><em>💡 "Código limpo, memória gerenciada, entrega constante."</em></p>
 
 <!-- ============================================================
 COMO PERSONALIZAR (não aparece no GitHub):

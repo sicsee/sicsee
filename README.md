@@ -52,17 +52,14 @@
 | **O que faz** | CRUD de hábitos, streak diário/semanal, dashboard com gráficos, exportação CSV |
 | **Arquitetura** | MVC artesanal (sem framework) — rotas, controllers, models, views separados |
 | **Banco** | MySQL com *prepared statements*, transações, índices otimizados |
-| **Front** | HTML semântico, CSS Grid/Flex, JS vanilla para interações (sem build step) |
-| **Deploy** | VPS Ubuntu + Nginx + PHP-FPM + SSL (Let's Encrypt) |
-| **Repo** | <a href="https://github.com/sicsee/habit-tracker"><code>github.com/sicsee/habit-tracker</code></a> |
+|| **Front** | HTML semântico, CSS Grid/Flex, JS vanilla para interações (sem build step) |
+|| **Repo** | <a href="https://github.com/sicsee/habit-tracker"><code>github.com/sicsee/habit-tracker</code></a> |
 
 <p align="center">
   <img alt="Habit Tracker Dashboard" src="https://github.com/user-attachments/assets/habit-tracker-dashboard.png" width="70%" />
   <br/>
   <em>Dashboard com heatmap estilo GitHub (streak visual)</em>
 </p>
-
-> 🛠 **Próximos passos no projeto:** introduzir **TypeScript** no front, test suite, CI/CD com GitHub Actions, containerizar com Docker.
 
 ---
 

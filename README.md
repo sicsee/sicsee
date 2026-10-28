@@ -36,8 +36,6 @@
 | **React / Next.js** | 🟡 Noção básica | Componentes, hooks, roteamento — *estudando quando preciso* |
 | **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
 
-> 📚 **Como estudo:** resolvo problemas na **[Neps Academy](https://neps.academy/)** (estruturas de dados, algoritmos, grafos), leio *C Primer Plus* / *Effective C*, e aplico tudo no **Habit Tracker** (meu projeto-base).
-
 ---
 
 ### 🚀 Projeto em destaque

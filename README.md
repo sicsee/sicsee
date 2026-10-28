@@ -56,7 +56,7 @@
 | **Repo** | <a href="https://github.com/sicsee/habit-tracker"><code>github.com/sicsee/habit-tracker</code></a> |
 
 <p align="center">
-  <img alt="Habit Tracker Dashboard" src="https://github.com/user-attachments/assets/habit-tracker-dashboard.png" width="70%" />
+  <img alt="Habit Tracker Dashboard" src="https://raw.githubusercontent.com/sicsee/sicsee/main/assets/habit-tracker-dashboard.png" width="70%" />
   <br/>
   <em>Dashboard com heatmap estilo GitHub (streak visual)</em>
 </p>

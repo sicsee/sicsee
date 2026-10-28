@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sicsee" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nicolasdsgodinho@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/imnicolasds" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@imnicolasds-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -32,11 +32,9 @@
 | **C** | 🟡 Iniciante | Ponteiros, structs, alocação dinâmica, recursão — *Neps Academy* |
 | **PHP** | 🟡 Revisando | PDO, MVC artesanal, APIs REST, segurança — *Habit Tracker* |
 | **MySQL** | 🟡 Básico | SELECT/JOIN/índices, prepared statements — *uso no projeto* |
-| **JavaScript** | 🟢 Confortável | ES6+, async/await, DOM, fetch — *base full-stack* |
+|| **JavaScript** | 🟡 Revisando | ES6+, async/await, DOM, fetch — *base full-stack, reaprendendo* |
 | **React / Next.js** | 🟡 Noção básica | Componentes, hooks, roteamento — *estudando quando preciso* |
-| **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
-
-> 📚 **Como estudo:** resolvo problemas na **[Neps Academy](https://neps.academy/)** (estruturas de dados, algoritmos, grafos), leio *C Primer Plus* / *Effective C*, e aplico tudo no **Habit Tracker** (meu projeto-base).
+|| **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
 
 ---
 
@@ -105,11 +103,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github&title_color=a371f7&text_color=e1e4e8&icon_color=f5a623&bg_color=0d1117" />
     <img src="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github&title_color=a371f7&text_color=333&icon_color=f5a623&bg_color=f6f8fa" height="170" alt="GitHub Stats" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=a371f7&text_color=e1e4e8&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=default&langs_count=8&title_color=a371f7&text_color=333&bg_color=f6f8fa" height="170" alt="Top Languages" />
-  </picture>
 </p>
+
+<p align="center">
 
 <p align="center">
   <picture>
@@ -117,8 +113,6 @@
     <img src="https://streak-stats.demolab.com?user=sicsee&hide_border=true&locale=pt_BR&theme=default&mode=weekly&ring=a371f7&fire=f5a623&currStreakLabel=a371f7&sideNums=333&sideLabels=333&dates=333" height="180" alt="Streak Semanal" />
   </picture>
 </p>
-
-> 🎯 **Meta de streak:** commit consistente 5×/semana — focado no *Habit Tracker* e exercícios de C na Neps Academy.
 
 ---
 
@@ -135,7 +129,7 @@
 
 ### 🤝 Vamos conversar?
 
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sicsee" target="_blank">linkedin.com/in/sicsee</a> *(em reorganização — me chama mesmo assim)*
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sicsee" target="_blank">linkedin.com/in/sicsee</a>
 - 📧 **Email:** nicolasdsgodinho@gmail.com
 - 💬 **Aberto a:** mentoria, code review, indicações, bate-papo tech
 

@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Banner" src="https://raw.githubusercontent.com/sicsee/sicsee/main/banner-pixel-darkblue.svg" width="100%" />
-</p>
-
 <h1 align="center">Nicolas Godinho</h1>
 
 <p align="center">

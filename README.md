@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-godinho" target="_blank">
+  <a href="https://www.linkedin.com/in/sicsee" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nicolas.godinho.dev@gmail.com" target="_blank">
+  <a href="mailto:nicolasdsgodinho@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/imnicolasds" target="_blank">
@@ -20,21 +20,23 @@
 
 ### 🎯 Objetivo atual
 
-> **Buscando estágio em desenvolvimento backend** — estudando **C** ativamente, **C++** no radar, com base em **PHP/MySQL** e fundamentos de **JavaScript/Node.js**.  
-> Aberto a oportunidades full-stack (React + Node) quando o momento pedir.
+> **Buscando estágio em desenvolvimento backend** — estudando **C** ativamente, **PHP/MySQL** em revisão, base em **JavaScript/React/Next.js**.  
+> Aberto a oportunidades full-stack quando o momento pedir.
 
 ---
 
-### 🧠 Em aprendizado ativo
+### 🧠 Em aprendizado ativo — *proficiência real*
 
-| Linguagem | Status | Foco atual |
+| Linguagem | Status | Onde estou agora |
 |---|---|---|
-| **C** | 🟢 Estudando diariamente | Ponteiros, gestão de memória, estruturas de dados, algoritmos |
-| **C++** | 🟡 Próximo (Q4 2026) | POO, STL, templates, RAII, concorrência básica |
-| **PHP** | 🟢 Consolidando | PDO, arquitetura MVC, APIs REST, segurança |
-| **JavaScript / Node.js** | 🟡 Revisando | Express, async/await, integração com banco |
+| **C** | 🟡 Iniciante | Ponteiros, structs, alocação dinâmica, recursão — *Neps Academy* |
+| **PHP** | 🟡 Revisando | PDO, MVC artesanal, APIs REST, segurança — *Habit Tracker* |
+| **MySQL** | 🟡 Básico | SELECT/JOIN/índices, prepared statements — *uso no projeto* |
+| **JavaScript** | 🟢 Confortável | ES6+, async/await, DOM, fetch — *base full-stack* |
+| **React / Next.js** | 🟡 Noção básica | Componentes, hooks, roteamento — *estudando quando preciso* |
+| **TypeScript** | 🟡 Radar | Tipagem estrita, integração React/Next — *próximo passo* |
 
-> 📚 **Como acompanho:** resolvo problemas no [Beecrowd/URI](https://www.beecrowd.com.br/) e [LeetCode](https://leetcode.com/), estudo com *C Primer Plus* / *Effective C*, e aplico no **Habit Tracker** (meu projeto-base).
+> 📚 **Como estudo:** resolvo problemas na **[Neps Academy](https://neps.academy/)** (estruturas de dados, algoritmos, grafos), leio *C Primer Plus* / *Effective C*, e aplico tudo no **Habit Tracker** (meu projeto-base).
 
 ---
 
@@ -62,25 +64,25 @@
   <em>Dashboard com heatmap estilo GitHub (streak visual)</em>
 </p>
 
-> 🛠 **Próximos passos no projeto:** migrar backend para **C++ (cpp-httplib + SQLite/PostgreSQL)**, adicionar autenticação JWT, test suite, e containerizar com Docker.
+> 🛠 **Próximos passos no projeto:** introduzir **TypeScript** no front, test suite, CI/CD com GitHub Actions, containerizar com Docker.
 
 ---
 
-### 🛠 Stack & Ferramentas
+### 🛠 Stack — *o que uso de verdade*
 
-**Backend & Core**
+**🎯 Domino / Uso no dia a dia**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,mysql,linux,nginx,git,docker" height="40" alt="C, C++, PHP, MySQL, Linux, Nginx, Git, Docker" />
+  <img src="https://skillicons.dev/icons?i=c,php,mysql,js,html,css,git" height="44" alt="C, PHP, MySQL, JavaScript, HTML, CSS, Git" />
 </p>
 
-**Fundamentos Web (base full-stack)**
+**📚 Em estudo / Revisão ativa**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git" height="40" alt="JS, Node, Express, HTML, CSS, Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,postgresql" height="44" alt="React, Next.js, TypeScript, PostgreSQL" />
 </p>
 
-**Em estudo / radar**
+**🔭 Radar (futuro próximo)**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,aws,githubactions" height="40" alt="PostgreSQL, Redis, AWS, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=githubactions,tailwind,vite" height="44" alt="GitHub Actions, Tailwind, Vite" />
 </p>
 
 ---
@@ -100,42 +102,41 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github" height="170" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=transparent&rank_icon=github&title_color=a371f7&text_color=e1e4e8&icon_color=f5a623&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sicsee&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github&title_color=a371f7&text_color=333&icon_color=f5a623&bg_color=f6f8fa" height="170" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=default&langs_count=8" height="170" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=a371f7&text_color=e1e4e8&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicsee&layout=compact&hide_border=true&theme=default&langs_count=8&title_color=a371f7&text_color=333&bg_color=f6f8fa" height="170" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sicsee&hide_border=true&locale=pt_BR&theme=transparent&mode=weekly" />
-    <img src="https://streak-stats.demolab.com?user=sicsee&hide_border=true&locale=pt_BR&theme=default&mode=weekly" height="180" alt="Streak Semanal" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sicsee&hide_border=true&locale=pt_BR&theme=transparent&mode=weekly&ring=a371f7&fire=f5a623&currStreakLabel=a371f7&sideNums=e1e4e8&sideLabels=e1e4e8&dates=e1e4e8" />
+    <img src="https://streak-stats.demolab.com?user=sicsee&hide_border=true&locale=pt_BR&theme=default&mode=weekly&ring=a371f7&fire=f5a623&currStreakLabel=a371f7&sideNums=333&sideLabels=333&dates=333" height="180" alt="Streak Semanal" />
   </picture>
 </p>
 
-> 🎯 **Meta de streak:** commit consistente 5×/semana — focado no *Habit Tracker* e exercícios de C/C++.
+> 🎯 **Meta de streak:** commit consistente 5×/semana — focado no *Habit Tracker* e exercícios de C na Neps Academy.
 
 ---
 
 ### 🗺 Roadmap próximo (Q4 2026 – Q1 2027)
 
-- [ ] **C**: concluir *C Primer Plus* + 50 problemas Beecrowd (pointers, structs, arquivos, recursão)
-- [ ] **Habit Tracker v2**: reescrever core em **C++17** (cpp-httplib + SQLite → PostgreSQL)
-- [ ] **API REST completa**: endpoints versionados, OpenAPI/Swagger, testes automatizados
+- [ ] **C**: consolidar ponteiros, structs, arquivos, recursão — 50 problemas Neps Academy
+- [ ] **PHP/MySQL**: revisar PDO, transações, otimização de queries no Habit Tracker
+- [ ] **TypeScript**: migrar front do Habit Tracker + tipar APIs
 - [ ] **CI/CD**: GitHub Actions → build, test, lint, deploy staging
-- [ ] **Docker**: multi-stage build, docker-compose para dev/prod
-- [ ] **Observabilidade**: logs estruturados, health checks, métricas básicas
+- [ ] **PostgreSQL**: migrar do MySQL, aprender particionamento, índices avançados
 - [ ] **Portfólio**: documentar cada etapa em artigos curtos (Markdown no repo / blog futuro)
 
 ---
 
 ### 🤝 Vamos conversar?
 
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/nicolas-godinho" target="_blank">linkedin.com/in/nicolas-godinho</a> *(em reorganização — me chama mesmo assim)*
-- 📧 **Email:** nicolas.godinho.dev@gmail.com
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sicsee" target="_blank">linkedin.com/in/sicsee</a> *(em reorganização — me chama mesmo assim)*
+- 📧 **Email:** nicolasdsgodinho@gmail.com
 - 💬 **Aberto a:** mentoria, code review, indicações, bate-papo tech
 
 ---
@@ -144,14 +145,13 @@
 
 <!-- ============================================================
 COMO PERSONALIZAR (não aparece no GitHub):
-1. Substitua os links do LinkedIn/email pelos seus reais
-2. Adicione screenshot real do Habit Tracker:
+1. Adicione screenshot real do Habit Tracker:
    - No repo habit-tracker, vá em Settings → Pages → ative GitHub Pages
    - Ou suba a imagem em Issues → "Attach files" → copie a URL raw
    - Cole no lugar do placeholder habit-tracker-dashboard.png
-3. Fixe os 3 repos no perfil: Settings → Customize pins → selecione habit-tracker, VeloceGarage, LaAscencion
-4. Para a snake animada: crie .github/workflows/snake.yml (modelo no final)
-5. Push: gh repo edit sicsee/sicsee --description "..." (opcional)
+2. Fixe os 3 repos no perfil: Settings → Customize pins → selecione habit-tracker, VeloceGarage, LaAscencion
+3. Para a snake animada: crie .github/workflows/snake.yml (modelo no final)
+4. Push: gh repo edit sicsee/sicsee --description "..." (opcional)
 ============================================================ -->
 
 <!-- ============================================================
@@ -180,4 +180,14 @@ jobs:
 ```
 Depois ative Pages no repo (Source: GitHub Actions) e adicione no README:
 `![snake](https://raw.githubusercontent.com/sicsee/sicsee/output/github-contribution-grid-snake.svg)`
+============================================================ -->
+
+<!-- ============================================================
+CORES DO TEMA (para referência rápida):
+- Roxo principal: #a371f7
+- Amarelo destaque: #f5a623
+- Texto escuro: #0d1117 (dark) / #333 (light)
+- Texto claro: #e1e4e8 (dark) / #333 (light)
+- Fundo escuro: #0d1117
+- Fundo claro: #f6f8fa
 ============================================================ -->
